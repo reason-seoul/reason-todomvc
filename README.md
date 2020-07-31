@@ -150,7 +150,7 @@ let filter =
 
 // 와 너무 직관적이다
 state.todos
-->Array.keep(todo => switch (filter, todo) {
+->Array.keep(todo => switch (filter, todo.completed) {
   | (Completed, true) => true
   | (Active, false) => true
   | (All, _) => true
