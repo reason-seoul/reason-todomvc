@@ -1,6 +1,5 @@
 # Reason Seoul Workshop #1
 
-[![Join Meetup](https://img.shields.io/badge/Meetup-Join%20us-%23f65858)](https://www.meetup.com/Reason-Seoul/)
 [![Discord](https://img.shields.io/discord/717436122480902225.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/RzShCNp)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ReasonSeoul.svg?style=social)](https://twitter.com/ReasonSeoul)
 
